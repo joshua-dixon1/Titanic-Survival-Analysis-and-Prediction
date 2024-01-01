@@ -2,7 +2,7 @@
 Machine learning project analysing and predicting survival on the Titanic (work in progress entry for Kaggle Competition)
 
 ## Project Overview
-This repository contains a machine learning project aimed at analyding and predicting passenger survival on the RMS Titanic. The project is based on the well-known [Kaggle Titanic competition](https://www.kaggle.com/c/titanic). The goal is to use passenger data (like age, sex, ticket class, etc.) to predict who is likely to survive.
+This repository contains a machine learning project aimed at analysing and predicting passenger survival on the RMS Titanic. The project is based on the well-known [Kaggle Titanic competition](https://www.kaggle.com/c/titanic). The goal is to use passenger data (like age, sex, ticket class, etc.) to predict who is likely to survive.
 
 ## Data Source
 The dataset used in this project is sourced from the [Titanic dataset on Kaggle](https://www.kaggle.com/c/titanic/data). It includes various features such as passenger names, ages, classes, and survival status.
@@ -11,7 +11,8 @@ The dataset used in this project is sourced from the [Titanic dataset on Kaggle]
 - `titanic_analysis.ipynb`: Jupyter Notebook with the exploratory data analysis, data preprocessing, and modeling.
 - `train.csv`: Training dataset provided by Kaggle.
 - `test.csv`: Test dataset provided by Kaggle.
-- `submission.csv`: Example submission file for the competition.
+- `gender_submission.csv`: Kaggle's example submission file for understanding the required format.
+- `submission.csv`: My draft submission
 - `README.md`: This file, providing an overview of the project.
 
 ## Methodology
@@ -32,10 +33,10 @@ The project follows these main steps:
 To run this project, clone the repository, install the required packages, and open `titanic_analysis.ipynb` in a Jupyter environment.
 
 ## Contributions
-Contributions, issues, and feature requests are welcome.
+Contributions, issues, feedback and feature requests are welcome.
 
 ## Author
-- joshua-dixon1
+- Joshua Dixon
 
 ## License
 This project is [MIT licensed](https://github.com/joshua-dixon1/Titanic-Survival-Analysis-and-Prediction-Work-in-Progress-/blob/main/LICENSE).
