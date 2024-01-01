@@ -1,4 +1,4 @@
-# Titanic Survival Analysis and Prediction (Work-in-Progress)
+# Titanic Survival Analysis and Prediction (Work-In-Progress)
 Machine learning project analysing and predicting survival on the Titanic (work in progress entry for Kaggle Competition)
 
 ## Project Overview
