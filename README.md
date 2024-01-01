@@ -12,7 +12,7 @@ The dataset used in this project is sourced from the [Titanic dataset on Kaggle]
 - `train.csv`: Training dataset provided by Kaggle.
 - `test.csv`: Test dataset provided by Kaggle.
 - `gender_submission.csv`: Kaggle's example submission file for understanding the required format.
-- `submission.csv`: My draft submission
+- `submission.csv`: My draft submission.
 - `README.md`: This file, providing an overview of the project.
 
 ## Methodology
