@@ -1,5 +1,5 @@
-# Titanic Survival Analysis and Prediction (Work-In-Progress)
-Machine learning project analysing and predicting survival on the Titanic (work in progress entry for Kaggle Competition)
+# Titanic Survival Analysis and Prediction (Work-in-Progress)
+Machine learning project analysing and predicting survival on the Titanic (work-in-progress entry for Kaggle Competition)
 
 ## Project Overview
 This repository hosts my ongoing machine learning project, currently in draft form, focused on analysing and predicting passenger survival on the RMS Titanic. As a work-in-progress entry in the [Kaggle Titanic competition](https://www.kaggle.com/c/titanic), the project utilises passenger data such as age, sex, and ticket class to predict survival outcomes. Regular updates and improvements are expected as the project evolves.
