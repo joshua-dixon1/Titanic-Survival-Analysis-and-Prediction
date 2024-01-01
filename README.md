@@ -2,7 +2,7 @@
 Machine learning project analysing and predicting survival on the Titanic (work in progress entry for Kaggle Competition)
 
 ## Project Overview
-This repository contains a machine learning project aimed at analysing and predicting passenger survival on the RMS Titanic. The project is based on the well-known [Kaggle Titanic competition](https://www.kaggle.com/c/titanic). The goal is to use passenger data (like age, sex, ticket class, etc.) to predict who is likely to survive.
+This repository hosts my machine learning project, focused on analysing and predicting passenger survival on the RMS Titanic. As part of my entry in the [Kaggle Titanic competition](https://www.kaggle.com/c/titanic), this project utilises passenger data such as age, sex, and ticket class to predict survival outcomes.
 
 ## Data Source
 The dataset used in this project is sourced from the [Titanic dataset on Kaggle](https://www.kaggle.com/c/titanic/data). It includes various features such as passenger names, ages, classes, and survival status.
