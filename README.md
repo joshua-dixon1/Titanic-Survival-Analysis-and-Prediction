@@ -31,9 +31,9 @@ Key stages of the project include:
 - Competent performance from Gradient Boosting Trees and Linear SVC, amongst others.
 
 ## Technologies Used
-- Python for programming
+- Python
 - Pandas and NumPy for data management
-- Matplotlib and Seaborn for visualization
+- Matplotlib and Seaborn for visualisation
 - Scikit-learn for machine learning
 
 ## Models Explored
