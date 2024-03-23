@@ -1,5 +1,5 @@
 # Titanic Survival Analysis and Prediction
-This repository hosts my machine learning project for the Kaggle Titanic competition, where I analyze and predict survival outcomes using passenger data. The focus is on in-depth exploration, feature engineering, and model optimisation.
+This repository hosts my machine learning project for the Kaggle Titanic competition, where I analyse and predict survival outcomes using passenger data. The focus is on in-depth exploration, feature engineering, and model optimisation.
 
 ## Project Overview
 The project tackles the binary classification problem presented by the Titanic dataset: predicting survival based on attributes such as age, sex, and ticket class. I utilised data visualisation, preprocessing, feature engineering, and the deployment of machine learning models, with a particular emphasis on the CatBoost algorithm.
